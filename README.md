@@ -1,2 +1,2 @@
-# Gamp sign in page using react
-## I built this using react and I fetched my first API
+## Gamp sign in page
+### I built this using reactjs and I fetched my first API
